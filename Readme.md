@@ -68,6 +68,11 @@
  - Tener en mente que en Diseño Grafico no se miran solo los colores, si no se busca la manera de pensar creativa en todos los aspectos.
  - Llegar a ser buen@ en el mundo del Html, ya que en un futuro todos utilizaran este recurso mas de lo que hoy se esta usando, por lo que significa que las paginas creadas desde 0 son uno de los trabajos "buenos" tanto a programadores.
  - Desde el punto Creativo todos tenemos ideas las cuales podemos atraer a personas a que hagan sitios web desde 0, con la practica se puede llegar a mucho, solo es de practicar.
+  
+  # <h1> 🌨 Objetivos Futuros
+  - aplicar de manera perfecta todos los temas que vamos viendo conforme al periodo de clases.
+  - aplicar mucho mejor la manera de todos los ejercicios que se nos da en clase y que sea de forma interactiva.
+  - reanudar todos los temas ya aprendidos, para perfeccionarlos conforme las nuevas cosas que vamos viendo.
  
  # <h1> ☁️ Documentación
 
