@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: inherit;
+}
+
+:root{
+    --color1:#730710;
+    --color2:#D92332;
+    --color3:#400101;
+    --color4:#D91E1E;
+    --color5:#0D0D0D;
+    --color6:#BF2A37;
+}
+
+html{
+    font-size: 62.5%;
+    Font-Family: 
+}
+
+:root{
+    --titulo-h1: 40rem;
+    --titulo-h2: 30rem;
+    --titulo-h3: 20rem;
+    --titulo-h4: 20rem;
+    --titulo-h5: 18rem;
+    --parrafo-1: 15rem;
+}
